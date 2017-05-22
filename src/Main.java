@@ -14,9 +14,9 @@ public class Main {
         Date myDate2 = new Date();
         Date myDate3 = new Date();
 
-        myList1.add(1337, "thats leet");
-        myList1.add(69, "lol hehe");
-        myList1.add(420, "blaze it lmaaooooo lol");
+        myList1.add(1337, "ayyy");
+        myList1.add(69, "whaddup");
+        myList1.add(420, "abcdefg");
 
         myList2.add("firstadd", myDate1);
         myList2.add("secondadd", myDate2);

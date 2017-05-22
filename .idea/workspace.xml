@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="553f82e9-2ffc-45c5-91ff-c7e78e6823d7" name="Default" comment="" />
+    <list default="true" id="553f82e9-2ffc-45c5-91ff-c7e78e6823d7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MetaInfoListInterface.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MetaInfoListInterface.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="297">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -328,7 +330,12 @@
         <state relative-caret-position="81">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1495099130817" expanded="true" signature="7:98" ph="..." />
+            <marker date="1495099130817" expanded="true" signature="100:145" ph="/**...*/" />
+            <marker date="1495099130817" expanded="true" signature="364:372" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="427:622" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="653:935" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="972:1248" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -345,7 +352,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1495098181010" expanded="true" signature="0:45" ph="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -354,7 +363,12 @@
         <state relative-caret-position="81">
           <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1495099130817" expanded="true" signature="7:98" ph="..." />
+            <marker date="1495099130817" expanded="true" signature="100:145" ph="/**...*/" />
+            <marker date="1495099130817" expanded="true" signature="364:372" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="427:622" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="653:935" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="972:1248" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -373,28 +387,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetaInfoListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1495098181010" expanded="true" signature="0:45" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MetaInfoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="195">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1495099130817" expanded="true" signature="7:98" ph="..." />
+            <marker date="1495099130817" expanded="true" signature="100:145" ph="/**...*/" />
+            <marker date="1495099130817" expanded="true" signature="364:372" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="427:622" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="653:935" ph="{...}" />
+            <marker date="1495099130817" expanded="true" signature="972:1248" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MetaInfoListInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
